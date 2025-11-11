@@ -12,11 +12,11 @@ const client = new Client({
 
 // Configuración - Cambia estos valores según tu servidor
 const CONFIG = {
-  staffRoleId: 'ID_DEL_ROL_STAFF', // Reemplaza con el ID de tu rol de staff
-  logChannelId: 'ID_DEL_CANAL_LOGS', // Canal donde se registrarán las acciones
-  ticketCategory: 'ID_CATEGORIA_TICKETS', // Categoría donde se crean los tickets
-  welcomeChannel: 'ID_CANAL_BIENVENIDA', // Canal de bienvenida
-  rulesChannel: 'ID_CANAL_REGLAS' // Canal de reglas
+  staffRoleId: '1437618918997884968', // Reemplaza con el ID de tu rol de staff
+  logChannelId: '1437621223331725392', // Canal donde se registrarán las acciones
+  ticketCategory: '1437619974054084618', // Categoría donde se crean los tickets
+  welcomeChannel: '1437630515451658361', // Canal de bienvenida
+  rulesChannel: '1437616147901059255' // Canal de reglas
 };
 
 // Almacenamiento temporal para advertencias y otros datos
